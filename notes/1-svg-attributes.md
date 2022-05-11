@@ -54,8 +54,6 @@ This would be fine on modern browsers.
 </svg>
 ```
 
----
-
 ## Width & height
 
 ```html
@@ -66,7 +64,7 @@ This would be fine on modern browsers.
 ```
 
 - Viewport of the SVG
-  ![[plane-window.png]]
+![](_resources/plane-window.png)
 - Could be set via CSS, but it is a good practice to have the attribute as a fallback.
 
 ```css
@@ -76,12 +74,10 @@ svg {
 }
 ```
 
----
-
 ## Viewbox
 
 - Telescope
-  ![[telescope.png]]
+  ![](_resources/telescope.png)
 - Can pan and zoom
 - `min-x | min-y | width | height`
     - min-x = 100 => add 100 unit to the right of viewport
