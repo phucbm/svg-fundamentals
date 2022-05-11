@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "0900e2dd959031e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6e7a70e42bea53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-svg-attributes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f02ae7dd409cadb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "85949faf480ce335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d6a96a17e8e023",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed6260f452658565",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "267f8e7537a1ecef",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71dd42d8759e823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bab73df18ee4b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-svg-attributes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f6e7a70e42bea53",
+  "lastOpenFiles": [
+    "1-svg-attributes.md"
+  ]
+}
