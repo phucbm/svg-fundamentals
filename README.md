@@ -1,5 +1,7 @@
 # SVG Fundamentals
 
+[Read notes](https://phucbm.memos.pub/svg-fundamentals)
+
 ## Deployment
 
 Install gulp

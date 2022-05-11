@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-svg-attributes.md",
+            "file": "2-svg-rendering-fundamentals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-svg-attributes.md",
+                "file": "2-svg-rendering-fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "1f6e7a70e42bea53",
   "lastOpenFiles": [
+    "2-svg-rendering-fundamentals.md",
+    "_resources/plane-window.png",
     "1-svg-attributes.md",
-    "telescope.png.md",
-    "_resources/plane-window.png"
+    "telescope.png.md"
   ]
 }
